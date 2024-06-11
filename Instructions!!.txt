@@ -1,0 +1,7 @@
+Ini game mesti ikut arahan dalam game tu. 
+
+contoh, dia suruh masak ikan dalam 9 saat so tekan and hold selama 9 saat then baru lepas 
+
+kalau lebih or kurang dari saat tu, level x lepas
+
+kalau cun dalam saat tu, akan proceed to next level
